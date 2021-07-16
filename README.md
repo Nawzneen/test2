@@ -1,1 +1,1 @@
-https://github.com/Nawzneen/test2
+https://nawzneen.github.io/test2
